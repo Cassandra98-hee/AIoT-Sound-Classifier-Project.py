@@ -1,9 +1,0 @@
-AIoT-Sound-Classifier/
-├── wokwi/
-│   ├── sketch.ino
-│   ├── model.h
-│   ├── diagram.json
-│   └── libraries.txt
-├── AI model/
-│   └── notebook.ipynb
-└── README.md
