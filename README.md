@@ -51,6 +51,6 @@ Built and tested on [Wokwi]([https://wokwi.com/)
 - Explore lighter deep learning models for better accuracy
 
 ## 👤 Author
-Cassandra HEE Poh Sham 
+Cassandra HEE 
 
 
