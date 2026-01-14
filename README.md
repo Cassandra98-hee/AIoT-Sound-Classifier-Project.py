@@ -1,7 +1,7 @@
 # AIoT Sound Classification System for Education
 
 ## 📖 Overview
-This project implements an Artificial Intelligence of Things (AIoT) system designed for educational environments. The system captures lecturer voice through a microphone connected to an ESP32 microcontroller, processes the audio using a lightweight AI model, and automatically extracts keywords and categories to Blynk platform.
+This project implements an Artificial Intelligence of Things (AIoT) system designed for educational environments. The system captures lecturer voice through a microphone connected to an ESP32 microcontroller, processes the audio using a lightweight AI model, and automatically extracts keywords and category to the Blynk platform.
 
 ## 🎯 Purpose
 - Help students **focus on essential points** during lectures
@@ -28,8 +28,9 @@ Repository 2: Sound-Classification-AI
 
 ## ⚙️Simulation
 Built and tested on [Wokwi]([https://wokwi.com/)
+
 ## 📊 AI Model Performance
-- **Dataset Used:** AG News Classification Dataset (Kaggle- https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset)
+- **Dataset Used:** AG News Classification Dataset (https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset)
 - **Algorithm:** Logistic Regression with TF-IDF vectorisation
 - **Accuracy:** 90.42%
 
@@ -47,8 +48,8 @@ Built and tested on [Wokwi]([https://wokwi.com/)
 
 ## 🔮 Future Improvements
 - Deploy on physical ESP32 hardware for real audio capture
-- Implement speech-to-text conversion
-- Explore lighter deep learning models for better accuracy
+- Implement real life speech-to-text conversion
+- Explore deep learning models for better accuracy
 
 ## 👤 Author
 Cassandra HEE 
