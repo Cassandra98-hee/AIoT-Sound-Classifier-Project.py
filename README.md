@@ -16,23 +16,26 @@ The goal is to help students capture key information from lectures automatically
 
 ## 📁 File Structure
 ```
-├── sketch.ino        # Main Arduino code
-├── model.h           # Pre-trained AI model
-├── diagram.json      # Wokwi circuit layout
-├── libraries.txt     # Required libraries
-└── README.md         # Project documentation
+Repository 1: iot-sound-classifier
+├── sketch.ino     # Main Arduino code
+├── model.h        # Pre-trained AI model
+├── diagram.json   # Wokwi circuit layout
+├── libraries.txt  # Required libraries
+└── README.md
+Repository 2: sound-classification-ai
+├── AI-training-model.ipynb 
+└── README.md
 ```
 
 ## 🔌 Hardware Components
 - ESP32 board, 1 microphone, 1 piezoelectric buzzer, 1 16x2 LCD (I2C), 2 buttons, 2LEDs, 1  1kΩ resistor
 
 ## ⚙️Simulation
-Built and tested on [Wokwi]([https://wokwi.com/)](https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset)
-
+Built and tested on [Wokwi]([https://wokwi.com/)
 ## 📊 AI Model Performance
+- **Dataset Used:** AG News Classification Dataset (Kaggle- (https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset)
 - **Algorithm:** Logistic Regression with TF-IDF vectorisation
 - **Accuracy:** 90.42%
-- **Dataset:** AG News Classification Dataset (Kaggle)
 
 ## 🚀 How It Works
 1. Press **Blue Button** or **Blynk App** to start recording
