@@ -29,7 +29,7 @@ Repository 2: Sound-Classification-AI
 ## ⚙️Simulation
 Built and tested on [Wokwi]([https://wokwi.com/)
 ## 📊 AI Model Performance
-- **Dataset Used:** AG News Classification Dataset (Kaggle- (https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset)
+- **Dataset Used:** AG News Classification Dataset (Kaggle- https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset)
 - **Algorithm:** Logistic Regression with TF-IDF vectorisation
 - **Accuracy:** 90.42%
 
