@@ -16,14 +16,14 @@ The goal is to help students capture key information from lectures automatically
 
 ## 📁 File Structure
 ```
-Repository 1: iot-sound-classifier
+Repository 1: Iot-Sound-Classifier
 ├── sketch.ino     # Main Arduino code
 ├── model.h        # Pre-trained AI model
 ├── diagram.json   # Wokwi circuit layout
 ├── libraries.txt  # Required libraries
 └── README.md
-Repository 2: sound-classification-ai
-├── AI-training-model.ipynb 
+Repository 2: Sound-Classification-AI
+├── AI_training_model.ipynb 
 └── README.md
 ```
 
