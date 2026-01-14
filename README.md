@@ -24,7 +24,7 @@ Repository 2: Sound-Classification-AI
 ```
 
 ## 🔌 Hardware Components
-- ESP32 board, 1 microphone, 1 piezoelectric buzzer, 1 16x2 LCD (I2C), 2 buttons, 2LEDs, 1  1kΩ resistor
+- ESP32 board, 1 microphone, 1 piezoelectric buzzer, 1 16x2 LCD (I2C), 2 buttons, 2 LEDs, 1  1kΩ resistor
 
 ## ⚙️Simulation
 Built and tested on [Wokwi]([https://wokwi.com/)
