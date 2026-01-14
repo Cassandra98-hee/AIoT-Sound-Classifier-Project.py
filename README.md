@@ -4,11 +4,11 @@
 This project implements an Artificial Intelligence of Things (AIoT) system designed for educational environments. The system captures lecturer voice through a microphone connected to an ESP32 microcontroller, processes the audio using a lightweight AI model, and automatically extracts keywords and categories to Blynk platform.
 
 ## 🎯 Purpose
-- Help students **stay aware** of key topics during lectures
+- Help students **focus on essential points** during lectures
 - Reduce the burden of manual note-taking
 - Provide **real-time feedback** on lecture content
 - Support **personalised learning** by highlighting important keywords
-- Enhance **accessibility**
+- Enhance **accessibility** for learners
 
 ## 📁 File Structure
 ```
