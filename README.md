@@ -1,18 +1,9 @@
 # AIoT Sound Classification System for Education
 
 ## 📖 Overview
-This project implements an Artificial Intelligence of Things (AIoT) system designed for educational environments. The system captures lecturer voice through a microphone connected to an ESP32 microcontroller, processes the audio using a lightweight AI model, and automatically extracts keywords and categories to support personalised learning and accessibility.
+This project implements an Artificial Intelligence of Things (AIoT) system designed for educational environments. The system captures lecturer voice through a microphone connected to an ESP32 microcontroller, processes the audio using a lightweight AI model, and automatically extracts keywords and categories to Blynk platform to support personalised learning and accessibility.
 
 The goal is to help students capture key information from lectures automatically, reducing the need for manual note-taking and enhancing the learning experience.
-
-## 🛠️ Tech Stack
-| Component | Technology |
-|-----------|------------|
-| Microcontroller | ESP32 |
-| AI Model | TF-IDF + Logistic Regression |
-| IoT Platform | Blynk Cloud |
-| Simulation | Wokwi |
-| Programming Language | C++ (Arduino) |
 
 ## 📁 File Structure
 ```
