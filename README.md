@@ -1,9 +1,14 @@
 # AIoT Sound Classification System for Education
 
 ## 📖 Overview
-This project implements an Artificial Intelligence of Things (AIoT) system designed for educational environments. The system captures lecturer voice through a microphone connected to an ESP32 microcontroller, processes the audio using a lightweight AI model, and automatically extracts keywords and categories to Blynk platform to support personalised learning and accessibility.
+This project implements an Artificial Intelligence of Things (AIoT) system designed for educational environments. The system captures lecturer voice through a microphone connected to an ESP32 microcontroller, processes the audio using a lightweight AI model, and automatically extracts keywords and categories to Blynk platform.
 
-The goal is to help students capture key information from lectures automatically, reducing the need for manual note-taking and enhancing the learning experience.
+## 🎯 Purpose
+- Help students **stay aware** of key topics during lectures
+- Reduce the burden of manual note-taking
+- Provide **real-time feedback** on lecture content
+- Support **personalised learning** by highlighting important keywords
+- Enhance **accessibility**
 
 ## 📁 File Structure
 ```
@@ -44,7 +49,6 @@ Built and tested on [Wokwi]([https://wokwi.com/)
 - Deploy on physical ESP32 hardware for real audio capture
 - Implement speech-to-text conversion
 - Explore lighter deep learning models for better accuracy
-
 
 ## 👤 Author
 Cassandra HEE Poh Sham 
