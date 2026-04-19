@@ -52,8 +52,8 @@ Built and tested on [Wokwi]([https://wokwi.com/)
 - Explore deep learning models for better accuracy
 
 ## 🖼️ Result
-<img width="303" height="168" alt="image" src="https://github.com/user-attachments/assets/2e468516-02d6-430d-828e-e12eb0916ec9" />
-<img width="240" height="220" alt="image" src="https://github.com/user-attachments/assets/0494e5ac-62de-4624-ada1-9983adec8319" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/2e468516-02d6-430d-828e-e12eb0916ec9" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/0494e5ac-62de-4624-ada1-9983adec8319" />
 
 ## 👤 Author
 Cassandra HEE 
